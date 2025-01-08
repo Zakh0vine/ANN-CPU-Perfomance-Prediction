@@ -132,5 +132,4 @@ Baseline Model - R² Score: 0.9343, RMSE: 59.4131
 
 ---
 
-Jika Anda memiliki pertanyaan atau saran perbaikan, jangan ragu untuk menghubungi saya!
 
